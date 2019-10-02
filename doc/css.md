@@ -4,14 +4,7 @@ table of contents](TOC.md)
 asdas
 
 
-## Normalize.css
-
-In order to make browsers render all elements more consistently and in line
-with modern standards, we include
-[Normalize.css](https://necolas.github.io/normalize.css/) — a modern, HTML5-ready
-alternative to CSS resets.
-
-As opposed to CSS resets, Normalize.css:
+## Normalize.csalize.css:
 
 * targets only the styles that need normalizing
 * preserves useful browser defaults rather than erasing them
