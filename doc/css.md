@@ -1,19 +1,7 @@
 [HTML5 Boilerplate homepage](https://html5boilerplate.com/) | [Documentation
 table of contents](TOC.md)
 
-asdas
-
-
-## Normalize.csalize.css:
-
-* targets only the styles that need normalizing
-* preserves useful browser defaults rather than erasing them
-* corrects bugs and common browser inconsistencies
-* improves usability with subtle improvements
-* doesn't clutter the debugging tools
-* has better documentation
-
-For more information about Normalize.css, please refer to its [project
+asdassdaadsads
 page](https://necolas.github.com/normalize.css/), as well as this
 [blog post](http://nicolasgallagher.com/about-normalize-css/).
 
