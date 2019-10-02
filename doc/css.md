@@ -1,18 +1,7 @@
 [HTML5 Boilerplate homepage](https://html5boilerplate.com/) | [Documentation
 table of contents](TOC.md)
 
-# The CSS
-
-HTML5 Boilerplate's CSS includes:
-
-* [Normalize.css](#normalizecss)
-* [main.css](#maincss)
-
-This starting CSS does not rely on the presence of
-[conditional class names](https://www.paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/),
-[conditional style sheets](https://css-tricks.com/how-to-create-an-ie-only-stylesheet/),
-or [Modernizr](https://modernizr.com/), and it is ready to use no matter what
-your development preferences happen to be.
+asdas
 
 
 ## Normalize.css
